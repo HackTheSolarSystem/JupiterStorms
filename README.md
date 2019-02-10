@@ -9,6 +9,8 @@
 
 ### Solution Description
 
+1) Storm Detection using edge detection algorithms
+2) Collect metrics of different Storms relative to the Great Red Spot
 
 
 ### Installation Instructions
